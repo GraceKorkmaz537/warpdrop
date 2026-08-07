@@ -1,6 +1,6 @@
 {
   "name": "warpdrop",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "A simple, secure p2p file sharing tool using WebRTC technology.",
   "main": "src/index.ts",
   "scripts": {
